@@ -58,7 +58,7 @@ NYC Open Data
 
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ---
 ### Key Visualizations
@@ -73,7 +73,7 @@ NYC Open Data
 ![Top Complaint Types](assets/top_complaint_type.png)
 
 #### Agency Performance
-![Agency Performance](assets/Agency_Performance.png)
+![Agency Performance](assets/agency_Performance.png)
 ---
 
 ## Technology Stack
