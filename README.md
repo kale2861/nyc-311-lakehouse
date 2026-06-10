@@ -73,7 +73,7 @@ NYC Open Data
 ![Top Complaint Types](assets/top_complaint_type.png)
 
 #### Agency Performance
-![Agency Performance](assets/agency_Performance.png)
+![Agency Performance](assets/agency_performance.png)
 ---
 
 ## Technology Stack
