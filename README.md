@@ -32,6 +32,17 @@ The goal of this project is to transform raw service request data into reliable 
 * Trend analysis over time
 
 ---
+## Technology Stack
+
+| Technology     | Purpose                        |
+| -------------- | ------------------------------ |
+| Databricks     | Data engineering platform      |
+| PySpark        | Distributed data processing    |
+| Delta Lake     | Lakehouse storage layer        |
+| SQL            | Analytics and reporting        |
+| GitHub         | Version control                |
+| Databricks SQL | Dashboarding and visualization |
+---
 
 ## Architecture
 
@@ -74,19 +85,6 @@ NYC Open Data
 
 #### Agency Performance
 ![Agency Performance](assets/agency_performance.png)
----
-
-## Technology Stack
-
-| Technology     | Purpose                        |
-| -------------- | ------------------------------ |
-| Databricks     | Data engineering platform      |
-| PySpark        | Distributed data processing    |
-| Delta Lake     | Lakehouse storage layer        |
-| SQL            | Analytics and reporting        |
-| GitHub         | Version control                |
-| Databricks SQL | Dashboarding and visualization |
-
 ---
 
 ## Medallion Architecture
@@ -239,7 +237,7 @@ nyc-311-lakehouse/
 
 ## Key Outcomes
 
-* Built a complete Medallion Architecture pipeline
+* Designed and implemented a Medallion Architecture pipeline using Databricks, PySpark, and Delta Lake to transform NYC 311 data into analytics-ready datasets
 * Processed large-scale NYC operational datasets
 * Standardized and transformed raw service request data
 * Created reusable Delta Lake analytics tables
@@ -247,6 +245,13 @@ nyc-311-lakehouse/
 * Developed SQL-based executive dashboards
 * Demonstrated modern lakehouse engineering patterns
 
+---
+## Key Insights
+
+- Noise complaints represented one of the highest complaint categories across the study period.
+- Complaint volume varied significantly by borough, highlighting differences in service demand.
+- Agency response times differed across service types, providing opportunities for operational improvement.
+- Monthly trends revealed recurring seasonal patterns in 311 request activity.
 ---
 
 ## Future Enhancements
