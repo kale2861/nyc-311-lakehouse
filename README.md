@@ -61,6 +61,20 @@ NYC Open Data
 ![Dashboard](assets/dashboard.png)
 
 ---
+### Key Visualizations
+
+#### Monthly Request Trends
+![Monthly Request Trends](assets/monthly_requests_trends.png)
+
+#### Requests by Borough
+![Requests by Borough](assets/requests_by_borough.png)
+
+#### Top Complaint Types
+![Top Complaint Types](assets/top_complaint_type.png)
+
+#### Agency Performance
+![Agency Performance](assets/Agency_Performance.png)
+---
 
 ## Technology Stack
 
