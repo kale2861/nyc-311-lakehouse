@@ -86,6 +86,13 @@ NYC Open Data
 #### Agency Performance
 ![Agency Performance](assets/agency_performance.png)
 ---
+## Key Insights
+
+- Noise complaints represented one of the highest complaint categories across the study period.
+- Complaint volume varied significantly by borough, highlighting differences in service demand.
+- Agency response times differed across service types, providing opportunities for operational improvement.
+- Monthly trends revealed recurring seasonal patterns in 311 request activity.
+---
 
 ## Medallion Architecture
 
@@ -245,13 +252,6 @@ nyc-311-lakehouse/
 * Developed SQL-based executive dashboards
 * Demonstrated modern lakehouse engineering patterns
 
----
-## Key Insights
-
-- Noise complaints represented one of the highest complaint categories across the study period.
-- Complaint volume varied significantly by borough, highlighting differences in service demand.
-- Agency response times differed across service types, providing opportunities for operational improvement.
-- Monthly trends revealed recurring seasonal patterns in 311 request activity.
 ---
 
 ## Future Enhancements
